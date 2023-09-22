@@ -1,1 +1,1 @@
-{\color{red}Big}
+{\color{red}Red}

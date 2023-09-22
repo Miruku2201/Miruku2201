@@ -4,4 +4,4 @@ $$
 \end{align}
 $$
 
-$Mình\ là\ {\color{#89ed6b}{Huỳnh\ Tuấn\ Nam}},\ sinh\ viên\ năm\ 4$
+$Mình\ là\ {\color{#89ed6b}{Huỳnh\ Tuấn\ Nam}},\ sinh\ viên\ trường\ HCM\ Ú $

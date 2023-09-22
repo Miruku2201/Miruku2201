@@ -5,3 +5,6 @@ $$
 $$
 
 $Mình\ là\ {\color{#89ed6b}{Huỳnh\ Tuấn\ Nam}},\ sinh\ viên\ trường\ HCM\ Ú $
+
+Mình là 
+${\color{#89ed6b}{Huỳnh\ Tuấn\ Nam}}$

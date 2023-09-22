@@ -16,7 +16,7 @@ $$
   </a>
 </p>
 
-# Experienced in
+# Experienced In
 + Machine Learning, Artificial Intelligence 🤖🐍
 + Data Science 🔭
 + Web Development 🧑‍💻

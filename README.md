@@ -6,7 +6,8 @@ $$
 🎄 I'm\ {\color{#89ed6b}{Huynh\ Tuan\ Nam}}.\ I'm\ studying\ Data\ Science\ at\ Ho\ Chi\ Minh\ City\ University\ of\ Science\.🎄
 $$
 
-| AWS                                                   | Git                                           |
-| ----------------------------------------------------- | --------------------------------------------- |
-| oke                                                   | ko                                            |
+<div style = "display:flex">
+  <div>oke</div>
+  <div>ko</div>
+</div>
 

@@ -9,4 +9,5 @@ $$
 ---
 
 # Usage Language
-![python](https://github.com/Miruku2201/Miruku2201/assets/100175272/c2e65ebe-42a3-4026-b8c9-094ef343fdd7)
+![image](https://github.com/Miruku2201/Miruku2201/assets/100175272/945e23be-45b0-45fd-8937-0c0e7d54bfad)
+

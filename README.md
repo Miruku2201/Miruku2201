@@ -5,7 +5,7 @@ $$
 $$
 
 $$
-I'm
-${\color{#89ed6b}{Huỳnh\ Tuấn\ Nam}}$
-. I'm studying Data Science at Ho Chi Minh City University of Science.
+I'm\
+{\color{#89ed6b}{Huỳnh\ Tuấn\ Nam}}
+. I'm\ studying\ Data\ Science\ at\ Ho\ Chi\ Minh\ City\ University\ of\ Science\.
 $$

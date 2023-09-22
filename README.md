@@ -4,6 +4,6 @@ $$
 \end{align}
 $$
 
-$$
+$
 Mình\ là\ \color{#89ed6b}{Huỳnh\ Tuấn\ Nam}
-$$
+$

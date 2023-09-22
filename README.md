@@ -8,7 +8,7 @@ $$
 
 ---
 
-$Below is a Div containing three child Divs side by side. The Div
+${Below is a Div containing three child Divs side by side. The Div
 in the middle is empty, just to add more space between the left
 and right Divs.
 
@@ -37,4 +37,4 @@ nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor
 in reprehenderit in voluptate velit esse cillum dolore eu fugiat
 nulla pariatur.
 :::
-::::::$
+::::::}$

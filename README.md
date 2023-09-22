@@ -17,6 +17,6 @@ $$
 </p>
 
 # Experienced in
-+ Machine Learning
-+ Web development
-+ Python development
++ Machine Learning, Artificial Intelligence 🤖🐍
++ Data Science 🔭
++ Web Development 🧑‍💻

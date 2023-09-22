@@ -1,1 +1,1 @@
-${\color{#e38ad0}Red}$
+{\color{#e38ad0}Red}

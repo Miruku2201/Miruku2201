@@ -9,8 +9,10 @@ $$
 ---
 
 # Usage Language 
+
 <p align="center">
-  <img src="[![My Skills](https://skillicons.dev/icons?i=python,cpp,js,html,css)](https://skillicons.dev)" alt="Sublime's custom image"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,react" />
+  </a>
 </p>
-  
 

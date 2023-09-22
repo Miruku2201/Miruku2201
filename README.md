@@ -16,3 +16,7 @@ $$
   </a>
 </p>
 
+# Experienced in
++ Machine Learning
++ Web development
++ Python development

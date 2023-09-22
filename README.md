@@ -1,1 +1,1 @@
-<span style="color:orange;">Word up</span>
+$${\color{red}Red}$$

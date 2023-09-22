@@ -8,4 +8,4 @@ $$
 
 ---
 
-# __Usage Language__
+$\documentclass[12pt]{Usage\ Language}$

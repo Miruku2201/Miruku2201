@@ -6,4 +6,6 @@ $$
 🎄 I'm\ {\color{#89ed6b}{Huynh\ Tuan\ Nam}}.\ I'm\ studying\ Data\ Science\ at\ Ho\ Chi\ Minh\ City\ University\ of\ Science\.🎄
 $$
 
+---
+
 ### __Usage Language__

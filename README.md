@@ -4,7 +4,6 @@ $$
 \end{align}
 $$
 
-$Mình\ là\ {\color{#89ed6b}{Huỳnh\ Tuấn\ Nam}},\ sinh\ viên\ trường\ HCM\ Ú $
-
-Mình là 
+I'm
 ${\color{#89ed6b}{Huỳnh\ Tuấn\ Nam}}$
+. I'm studying Data Science at Ho Chi Minh City University of Science

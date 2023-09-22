@@ -1,1 +1,1 @@
-{\color{#e38ad0}Red}
+{\color{white}{This\ is\ a\ Big\ Title}

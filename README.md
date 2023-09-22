@@ -21,6 +21,7 @@ $$
 + Data Science 🔭
 + Web Development 🧑‍💻
 
-<a href="https://github.com/Miruku2201/github-readme-stats"><img alt="Miruku2201's Github Stats" src="https://github-readme-stats-Miruku2201.vercel.app/api?username=Miruku2201&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/Miruku2201/github-readme-stats"><img alt="Miruku2201's Top Languages" src="https://github-readme-stats-Miruku2201.vercel.app/api/top-langs/?username=Miruku2201&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="Miruku2201-stats" /></a>
+<a href="https://github.com/Miruku2201/github-readme-stats"><img alt="Miruku2201's Github Stats" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent" /></a>
+
+<a href="https://github.com/Miruku2201/github-readme-stats"><img alt="Miruku2201's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie" alt="Miruku2201" /></a>
 

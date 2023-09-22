@@ -1,1 +1,1 @@
-<h3 style="color:#ff0000">Danger</h3>
+<p style="color:#ff0000">Danger</p>

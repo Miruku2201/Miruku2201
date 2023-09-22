@@ -8,4 +8,8 @@ $$
 
 ---
 
-$\documentclass[12pt]{My Starter}$
+$
+\mainmatter
+\chapter{Where do I start}
+\lipsum[4]
+$

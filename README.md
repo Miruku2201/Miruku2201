@@ -1,1 +1,1 @@
-{\color{white}{This\ is\ a\ Big\ Title}.
+{\color{white}{This\ is\ a\ Big\ Title}}.

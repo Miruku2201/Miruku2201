@@ -6,7 +6,7 @@ $$
 🎄 I'm\ {\color{#89ed6b}{Huynh\ Tuan\ Nam}}.\ I'm\ studying\ Data\ Science\ at\ Ho\ Chi\ Minh\ City\ University\ of\ Science\.🎄
 $$
 
-<div styles = "display:flex">
+<div styles = "display:flex; flex:row">
   <div>oke</div>
   <div>ko</div>
 </div>

@@ -1,1 +1,1 @@
-$${\color{red}Red}$$
+<font color = #e38ad0>GITHUB</font>

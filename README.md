@@ -5,5 +5,5 @@ $$
 $$
 
 $$
-Mình là \color{#89ed6b}{Huỳnh Tuấn Nam}
+Mình\ là\ \color{#89ed6b}{Huỳnh\ Tuấn\ Nam}
 $$

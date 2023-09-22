@@ -9,5 +9,5 @@ $$
 ---
 
 # Usage Language
-![image](https://github.com/Miruku2201/Miruku2201/assets/100175272/945e23be-45b0-45fd-8937-0c0e7d54bfad)
+[![My Skills](https://skillicons.dev/icons?i=python,cpp,js,html,css)](https://skillicons.dev)
 
